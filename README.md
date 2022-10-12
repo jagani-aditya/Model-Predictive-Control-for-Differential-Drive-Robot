@@ -5,7 +5,7 @@
 
 1- Clone the repository in catkin_workspace
 ```shell
-    git clone https://github.com/jashmehta20/Model-Predictive-Control-for-Differential-Drive-Robot.git
+    git clone https://github.com/jagani-aditya/Model-Predictive-Control-for-Differential-Drive-Robot.git
 ```
 2- Perform catkin_make 
 ```shell
